@@ -1,6 +1,6 @@
 ![petit_gif_pour_le_fun](image_readme/entrainement.gif)
 
-# __Discrimination par un classifieur YOLO d'images satellites générées par un cGAN pix2pix__
+# __Discrimination par un classifieur YOLO de fausses images satellites générées par un cGAN pix2pix__
 
 GitHub contenant les données, notebooks et le rapport associés au projet 1 : GAN image, réalisé dans le cadre du cours Python (enseignant [Chahan Vidal-Gorène ](http://cv.hal.science/chahan-vidal-gorene)) du [Master Humanités Numériques de l'ENC ](https://www.chartes.psl.eu/fr/rubrique-admissions/master-humanites-numeriques).
 
